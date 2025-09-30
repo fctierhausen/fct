@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://fctierhausen.github.io/sitemap.xml
+Sitemap: https://fctierhausen.github.io/fct/sitemap.xml
