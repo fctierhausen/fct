@@ -3,7 +3,7 @@
     <title>FC Tierhausen</title>
     <link href="https://fctierhausen.com/feed.xml" rel="self" />
     <link href="https://fctierhausen.com" />
-    <updated>2025-10-03T23:32:22+02:00</updated>
+    <updated>2025-10-03T23:34:27+02:00</updated>
     <author>
         <name>Walter Cyber</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Walter Cyber</name>
         </author>
-        <link href="https://fctierhausen.com/der-tierhausener-putsch-2/"/>
-        <id>https://fctierhausen.com/der-tierhausener-putsch-2/</id>
+        <link href="https://fctierhausen.com/der-tierhausener-putsch/"/>
+        <id>https://fctierhausen.com/der-tierhausener-putsch/</id>
         <media:content url="https://fctierhausen.com/media/posts/16/tierhausener-putsch-cover.png" medium="image" />
             <category term="Origin Story"/>
             <category term="Artikel"/>
