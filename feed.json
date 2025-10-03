@@ -11,23 +11,6 @@
     },
     "items": [
         {
-            "id": "https://fctierhausen.com/le-macaron/",
-            "url": "https://fctierhausen.com/le-macaron/",
-            "title": "Lé Mácàroñ",
-            "summary": "Lé Mácàroñ der Präsident.....",
-            "content_html": "<p>Lé Mácàroñ der Präsident.....</p>",
-            "image": "https://fctierhausen.com/media/posts/4/Le-protrait.jpeg",
-            "author": {
-                "name": "Walter Cyber"
-            },
-            "tags": [
-                   "Charaktere",
-                   "Artikel"
-            ],
-            "date_published": "2025-09-28T23:07:25+02:00",
-            "date_modified": "2025-09-29T01:24:12+02:00"
-        },
-        {
             "id": "https://fctierhausen.com/der-tierhausener-putsch/",
             "url": "https://fctierhausen.com/der-tierhausener-putsch/",
             "title": "Der Tierhausener Putsch",
