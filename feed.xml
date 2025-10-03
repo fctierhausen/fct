@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>FC Tierhausen</title>
-    <link href="https://fctierhausen.github.io/fct/feed.xml" rel="self" />
-    <link href="https://fctierhausen.github.io/fct" />
+    <link href="https://fctierhausen.com/feed.xml" rel="self" />
+    <link href="https://fctierhausen.com" />
     <updated>2025-09-30T17:18:08+02:00</updated>
     <author>
         <name>Walter Cyber</name>
     </author>
-    <id>https://fctierhausen.github.io/fct</id>
+    <id>https://fctierhausen.com</id>
 
     <entry>
         <title>Lé Mácàroñ</title>
         <author>
             <name>Walter Cyber</name>
         </author>
-        <link href="https://fctierhausen.github.io/fct/le-macaron/"/>
-        <id>https://fctierhausen.github.io/fct/le-macaron/</id>
-        <media:content url="https://fctierhausen.github.io/fct/media/posts/4/Le-protrait.jpeg" medium="image" />
+        <link href="https://fctierhausen.com/le-macaron/"/>
+        <id>https://fctierhausen.com/le-macaron/</id>
+        <media:content url="https://fctierhausen.com/media/posts/4/Le-protrait.jpeg" medium="image" />
             <category term="Charaktere"/>
             <category term="Artikel"/>
 
         <updated>2025-09-28T23:07:25+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fctierhausen.github.io/fct/media/posts/4/Le-protrait.jpeg" alt="" />
+                        <img src="https://fctierhausen.com/media/posts/4/Le-protrait.jpeg" alt="" />
                     Lé Mácàroñ der Präsident.....
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fctierhausen.github.io/fct/media/posts/4/Le-protrait.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://fctierhausen.com/media/posts/4/Le-protrait.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>Lé Mácàroñ der Präsident.....</p>
             ]]>
         </content>
@@ -39,22 +39,22 @@
         <author>
             <name>Walter Cyber</name>
         </author>
-        <link href="https://fctierhausen.github.io/fct/der-tierhausener-putsch/"/>
-        <id>https://fctierhausen.github.io/fct/der-tierhausener-putsch/</id>
-        <media:content url="https://fctierhausen.github.io/fct/media/posts/2/tierhausener-putsch-cover-3.png" medium="image" />
+        <link href="https://fctierhausen.com/der-tierhausener-putsch/"/>
+        <id>https://fctierhausen.com/der-tierhausener-putsch/</id>
+        <media:content url="https://fctierhausen.com/media/posts/2/tierhausener-putsch-cover-3.png" medium="image" />
             <category term="Origin Story"/>
             <category term="Artikel"/>
 
         <updated>2025-09-28T21:39:29+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fctierhausen.github.io/fct/media/posts/2/tierhausener-putsch-cover-3.png" alt="" />
+                        <img src="https://fctierhausen.com/media/posts/2/tierhausener-putsch-cover-3.png" alt="" />
                     Im Jahr 2008 schlug ein kleiner, unscheinbarer Verein in der norddeutschen Provinz auf, und niemand ahnte, dass er bald für Furore sorgen würde. Der Name: FC Tierhausen. Der Mann dahinter: Lé Mácàroñ, ein mysteriöser Unternehmer aus Uganda, offiziell nur über einen Strohmann in Erscheinung getreten.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fctierhausen.github.io/fct/media/posts/2/tierhausener-putsch-cover-3.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://fctierhausen.com/media/posts/2/tierhausener-putsch-cover-3.png" class="type:primaryImage" alt="" /></p>
                 <p data-start="412" data-end="757">Im Jahr 2008 schlug ein kleiner, unscheinbarer Verein in der norddeutschen Provinz auf, und niemand ahnte, dass er bald für Furore sorgen würde. Der Name: <strong data-start="567" data-end="584">FC Tierhausen</strong>. Der Mann dahinter: Lé Mácàroñ, ein mysteriöser Unternehmer aus Uganda, offiziell nur über einen Strohmann in Erscheinung getreten. Unscheinbar? Nur auf den ersten Blick.</p>
 <p data-start="759" data-end="1081">Schon die ersten Monate machten klar: dies war kein normaler Klub. Die alteingesessenen Vereine Tierhausens, Hüter jahrzehntelanger Kreisliga-Tradition, spürten instinktiv die Bedrohung. Jugendliche Talente verschwanden über Nacht, Sponsoren tauchten aus dem Nichts auf, und die heimische Fußballwelt geriet ins Wanken.</p>
 <p data-start="1083" data-end="1222">„Die kamen wie ein Orkan in unser ruhiges Dorf“, erinnert sich ein ehemaliger Jugendleiter. „Und ehe wir uns versahen, war alles anders.“</p>
