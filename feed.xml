@@ -3,7 +3,7 @@
     <title>FC Tierhausen</title>
     <link href="https://fctierhausen.com/feed.xml" rel="self" />
     <link href="https://fctierhausen.com" />
-    <updated>2025-10-04T12:13:41+02:00</updated>
+    <updated>2025-10-04T12:16:30+02:00</updated>
     <author>
         <name>Walter Cyber</name>
     </author>
@@ -30,19 +30,8 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://fctierhausen.com/media/posts/16/tierhausener-putsch-cover.png" class="type:primaryImage" alt="" /></p>
-                <div class="audio-embed" data-src="https://audiomack.com/embed/fct-68e0d4febd415/song/der-tierhausener-putsch"> </div>
-<script>
-const io = new IntersectionObserver((entries, obs) => {
-  entries.forEach(entry => {
-    if (!entry.isIntersecting) return;
-    const el = entry.target;
-    el.innerHTML = `<div class="post__iframe"><iframe loading="lazy" width="100%" height="252" src="${el.dataset.src}" scrolling="no" frameborder="0" title="Der Tierhausener Putsch"></iframe></div>`;
-    obs.unobserve(el);
-  });
-}, { rootMargin: '300px' });
-
-document.querySelectorAll('.audio-embed').forEach(el => io.observe(el));
-</script>
+                <div style="position: relative; overflow: hidden;"><div class="post__iframe"><iframe width="100%" height="252" src="https://audiomack.com/embed/fct-68e0d4febd415/song/der-tierhausener-putsch" scrolling="no" frameborder="0" title="Der Tierhausener Putsch" tabindex="-1" loading="lazy">
+  </iframe></div></div>
 <h3>Tierhausen: Zwischen Historie und Moderne</h3>
 <p>Tierhausen ist keine Großstadt, doch die Mischung aus historischer Altstadt, modernen Lofts und grünen Uferzonen macht sie besonders. Der Fluss Thier, Symbol für Beständigkeit und Gemeinschaft, zieht sich wie eine Lebensader durch die Stadt. Bis 2008 war der lokale Fußballverein, der TUS Tierhausen, das Herz der Stadt – Treffpunkt, Identität, Leidenschaft. Fußball war hier bodenständig, emotional und unangefochten.<br><br>Dann betritt ein neuer Spieler die Bühne – und die Stadt ahnt noch nicht, wie radikal alles verändert wird.</p>
 <h3>Strategie, Tarnung, Macht</h3>
